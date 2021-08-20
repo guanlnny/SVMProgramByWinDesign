@@ -2,11 +2,11 @@
 This project is an application of SVM binary classification model in biology, and SVM was visualized by windows programming.
 ----------------------------------------------------------------------------------------------------------------------------
 ###工具：
-visual studio 2010+
-Libsvm
+visual studio 2010+、Libsvm
 
 ----------------------------------------------------------------------------------------------------------------------------
 ###Soure资源包介绍：
+
 #Libsvm：台湾大学林智仁教授开发的svm简易软件包，其中包含有可以黑屏调用的归一化操作机svm-scale，训练机svm-train，测试机svm-predict。
 
 #data：MEROPS - the Peptidase Database, https://www.ebi.ac.uk/merops/, Source>data文件夹中给出了训练集train.txt和测试集test.txt，
