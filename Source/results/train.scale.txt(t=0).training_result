@@ -1,0 +1,2 @@
+TP	FN	FP	TN	sn(sn+/TPR/HitRate/Recall/Coverage)	sp+(PPV/Precision)	sp(sn-/(1-FPR)	sp-(NPV)	fScore	Accuracy	MCC
+377	149	135	1443	0.71673	0.736328	0.914449	0.906407	0.726397	0.865019	0.636931
